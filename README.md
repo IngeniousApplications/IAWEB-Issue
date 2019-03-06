@@ -1,8 +1,5 @@
 # IAWEB-Issue
 A repository to track issues related to our Website
 
-
-TO ADD:
-- URLS to respective issue tracking repositories (for other apps)
-- Issue template
-- Instructions
+# How to report a bug
+Create an issue under the Issues tab and fill in information about the bug.
