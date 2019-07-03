@@ -2,7 +2,7 @@
 name: Bug report
 about: Report a bug with the IA Website
 title: ''
-labels: ''
+labels: 'not-verified'
 assignees: ''
 
 ---
@@ -10,8 +10,9 @@ assignees: ''
 **Describe the bug**
 A clear and concise description of what the bug is.
 
-**Endpoint**
-https://ingeniousapps.tk/.......
+**URL OF FAULTY SITE**
+https://
+
 
 **To Reproduce**
 Steps to reproduce the behavior:
