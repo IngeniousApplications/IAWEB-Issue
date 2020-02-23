@@ -2,7 +2,7 @@
 name: Bug report
 about: Report a bug with the IA Website
 title: ''
-labels: 'not-verified'
+labels: ''
 assignees: ''
 
 ---
